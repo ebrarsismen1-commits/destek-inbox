@@ -1,0 +1,20 @@
+[
+  {
+    "userId": "u_88213",
+    "name": "Elif Şahin",
+    "message": "Uygulamada ödeme adımına gelince ekran donuyor, 'Ödemeyi tamamla' butonuna basınca hiçbir şey olmuyor. iPhone 15, uygulama güncel. 3 kez denedim sepetim boşaldı.",
+    "createdAt": "2026-10-26T08:34:00Z"
+  },
+  {
+    "userId": "u_10477",
+    "name": "Oğuz Yıldız",
+    "message": "Kampanya kodu (EKIM20) sepette 'geçersiz' diyor ama kampanya sayfasında 31 Ekim'e kadar geçerli yazıyor.",
+    "createdAt": "2026-10-26T09:25:00Z"
+  },
+  {
+    "userId": "u_55190",
+    "name": "Emre Bulut",
+    "message": "Siparişime adres değişikliği yapabilir miyim? Henüz kargoya verilmemiş görünüyor. Yeni adres: Kadıköy, Moda Cad. No: 12",
+    "createdAt": "2026-10-26T10:09:00Z"
+  }
+]
